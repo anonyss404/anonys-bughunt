@@ -1,4 +1,4 @@
-# 💀 ANONYS-BUGHUNT [ULTIMATE EDITION] 💀
+# 💀 ANONYS BUG HUNTER💀
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-4.04--VIP-red?style=for-the-badge">
